@@ -1,0 +1,15 @@
+{"usage": {"text_characters": 97, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.710312, "label": "positive"}}}
+{"usage": {"text_characters": 110, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 91, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 123, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": -0.612603, "label": "negative"}}}
+{"usage": {"text_characters": 140, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 82, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 140, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.549618, "label": "positive"}}}
+{"usage": {"text_characters": 140, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 140, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 140, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 108, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": -0.566435, "label": "negative"}}}
+{"usage": {"text_characters": 65, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 70, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": 0.0, "label": "neutral"}}}
+{"usage": {"text_characters": 137, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": -0.602148, "label": "negative"}}}
+{"usage": {"text_characters": 123, "features": 1, "text_units": 1}, "language": "en", "sentiment": {"document": {"score": -0.612603, "label": "negative"}}}
